@@ -161,3 +161,4 @@ node                     10.10.10.5:9100                  down       context dea
 ## Credits
 
 - https://github.com/m0zgen/promppctl
+- https://github.com/m0zgen/prometheus-stack-installer
